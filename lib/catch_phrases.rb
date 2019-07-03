@@ -14,5 +14,5 @@ def link
   vari1 = "It's Dangerous To Go Alone! Take This."
   puts vari1
 end
-  
+
   
