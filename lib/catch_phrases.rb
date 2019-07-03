@@ -15,4 +15,7 @@ def link
   puts vari1
 end
 
+def any_phrase(phrase)
+  puts phrase
+end
   
